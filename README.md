@@ -12,7 +12,7 @@ A React Native app for making phone calls, managing contacts, and viewing call h
 ## Screenshots  
 | Dial Pad               | Call History           | Contacts              |
 |------------------------|------------------------|----------------------|
-| ![Dial Pad](path/to/dialpad.png) | ![Call History](path/to/history.png) | ![Contacts](path/to/contacts.png) |
+| ![Dial Pad](assets/Home.jpg) | ![Call History](assets/History.jpg) | ![Contacts](assets/Contacts.jpg) |
 
 ## Setup Instructions 🚀  
 

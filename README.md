@@ -6,8 +6,10 @@ A React Native app for making phone calls, managing contacts, and viewing call h
 - **Dial Pad:** Make phone calls with a traditional dial pad.  
 - **Call History:** View incoming, outgoing, and missed calls.  
 - **Contacts Management:** Save and search contacts.  
-- **Backspace Button:** Delete wrongly entered digits.  
-- **Permissions Handling:** Request and manage device permissions.
+- **Dark Mode:** Switch between light and dark themes for a comfortable viewing experience.  
+- **International Dialing Code Selector:** Choose from various country codes for international calls.  
+- **Number Blocking:** Allow users to block/unblock specific phone numbers.  
+- **Permissions Handling:** Request and manage device permissions.  
 
 ## Screenshots  
 | Dial Pad               | Call History           | Contacts              |

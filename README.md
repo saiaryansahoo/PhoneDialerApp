@@ -88,6 +88,9 @@ PhoneDialerApp/
 ├── context/              # State management (AppContext)
 ├── App.js                # Main app entry point
 ├── app.json              # Expo configuration
+├── index.js              
+├── package.json
+├── eas.json                       
 └── README.md             # Project documentation
 ```
 

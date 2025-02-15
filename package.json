@@ -26,15 +26,9 @@
     "react-native-call-log": "^2.1.2",
     "react-native-country-picker-modal": "^2.0.0",
     "react-native-gesture-handler": "~2.20.2",
-<<<<<<< HEAD
-    "react-native-get-random-values": "~1.11.0",
-    "react-native-linear-gradient": "^2.8.3",
-    "react-native-reanimated": "~3.16.1",
-=======
     "react-native-get-random-values": "^1.11.0",
     "react-native-linear-gradient": "^2.8.3",
     "react-native-reanimated": "^3.16.7",
->>>>>>> 8e956ad7c9a2d2aafc36975c97229c46c0e7372e
     "react-native-safe-area-context": "4.12.0",
     "react-native-screens": "~4.4.0"
   },
